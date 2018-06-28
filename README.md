@@ -1,6 +1,6 @@
 # Customer segmentation along multiple dimensions
 ## Food wholesaler customer segmentation using pca and k-means
-### Source: Udacity Machine Learning Engineer Nanodegree
+Source: Udacity Machine Learning Engineer Nanodegree
 
 ## Getting started
 In this project, I analyzed a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
