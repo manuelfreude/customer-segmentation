@@ -1,6 +1,6 @@
 # Customer segmentation along multiple dimensions
+Project context: Udacity Machine Learning Nanodegree
 ## Food wholesaler customer segmentation using pca and k-means
-Source: Udacity Machine Learning Engineer Nanodegree
 
 ## Python project summary
 
