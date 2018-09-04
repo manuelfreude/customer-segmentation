@@ -8,9 +8,11 @@ Source: Udacity Machine Learning Engineer Nanodegree
 - Conducted feature engineering incl. log-transformation and pca
 - Calculated customer segments with k-means and evaluated best cluster number with silhouette score
 
-### Sample distribution heatmap, pca dimensions and customer segments visualizations
+### Sample distribution heatmap
 
 ![Sample distribution](https://github.com/manuelfreude/customer-segmentation/blob/master/sample_distribution.png)
+
+### PCA dimensions visualization
 
 ![PCA dimensions](https://github.com/manuelfreude/customer-segmentation/blob/master/pca_dimensions.png)
 
@@ -19,6 +21,8 @@ Following features are relevant for the first four components:
 - Component 2: especially low in fresh, frozen and delicatessen
 - Component 3: high in delicatessen, but low in fresh food
 - Component 4: high in frozen food, detergents paper, but low in fresh and especially not delicatessen
+
+### Customer segments visualization
 
 ![Customer segments](https://github.com/manuelfreude/customer-segmentation/blob/master/customer_segments.png)
 
